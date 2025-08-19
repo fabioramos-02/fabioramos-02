@@ -2,6 +2,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabiowilliam466@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabioramos-02/)
+
 <img width="150" height="150" src="https://github.com/user-attachments/assets/7763a83a-aac5-43d3-b0ab-2ed77226ce4f" style="border-radius: 50%;" alt="Foto de Fabio Ramos"/>
 
 ![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioramos-02&show_icons=true&theme=radical)

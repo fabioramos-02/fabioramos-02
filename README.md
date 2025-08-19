@@ -4,7 +4,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabio.ramos@ufms.br)
 
-![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioRamosChang&show_icons=true&theme=radical)
+![Fabio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioramos-02&show_icons=true&theme=radical)
 
 ### Tecnologias que tenho experiência
 
